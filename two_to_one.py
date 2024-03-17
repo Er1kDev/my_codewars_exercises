@@ -10,4 +10,5 @@ def longest(s1, s2):
 # se unen los elementos de la lista resultante en una cadena de texto
 # y se retorna la cadena de texto resultante
 
+# Ejemplo de uso de la funcion longest con los parametros "aretheyhere" y "yestheyarehere"
 print(longest("aretheyhere", "yestheyarehere"))
